@@ -1,0 +1,123 @@
+{
+  "main": {
+    "name": "Udit Sharma",
+    "occupation": "Machine Learning Engineer",
+    "image": "rp.jpeg",
+    "bio": "Hello there!, I’m Udit, Experience in Machine Learning and Deep Learning. Proficient in Python, Data Structures, Algorithms, and various ML/DL models. Always eager to learn and implement new technologies and looking for challenging roles in the tech industry.",
+    "contactMessage": "Get in touch with me!",
+    "email": "udits0999@gmail.com",
+    "address": {
+      "city": "Delhi",
+      "state": "Delhi"
+    },
+    "resumeDownload": "https://drive.google.com/file/d/1i1uK5jgWoW9ELeWrepKQFCJGWDvTUB_l/view?usp=sharing",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://x.com/Udit_Sharma9",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/uditsharma9999/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/UditSharma9999",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/uditsharma099/",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "skillMessage": "I specialize in",
+    "education": [
+      {
+        "school": "University School of Automation and Robotics, Delhi",
+        "degree": "B.Tech in Artificial Intelligence and Data Science",
+        "graduated": "August 2022 - Present",
+        "description": "7.82 CGPA"
+      },
+      {
+        "school": "Ambedkar Institute Of Technology",
+        "degree": "Diploma in Information Technology Enabled Services and Management",
+        "graduated": "August 2019 - May 2022",
+        "description": "Graduated with 7.9 CGPA"
+      }
+    ],
+    "work": [
+      {
+        "company": "Gurugram Police Cyber Security Summer Internship (GPCSSI)",
+        "title": "Cyber Security Inter",
+        "years": "june 2024 - july 2024",
+        "description": "Hands-on experience in threat analysis and ethical hacking Worked on real-world cybersecurity challenges and stayed updated on the latest trends and technologies. Developed practical skills in cybersecurity threats."
+      },
+      {
+        "company": "Tech Mahindra",
+        "title": "Full Stack Web Developer Intern",
+        "years": "January 2022 - May 2022",
+        "description": "Contributed to web development, resolving 15+ bugs to improve user experience."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Machine Learning , Deep Learning, AI",
+        "level": "85%"
+      },
+      {
+        "name": "NodeJS , Flask, JavaScript, React",
+        "level": "70%"
+      },
+      {
+        "name": "Data Structures and Algorithms",
+        "level": "100%"
+      },
+      {
+        "name": "Git, GitHub, GitLab",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title":"SD-video-to-HD-video-convertor",
+        "category":"ML application",
+        "image": "new-pp.jpeg",
+        "url":"https://github.com/UditSharma9999/TensorGo--Assignment"
+      },
+      {
+        "title": "Real Time Hand Gesture Recognition",
+        "category": "ML application",
+        "image": "utube.jpeg",
+        "url": "https://github.com/UditSharma9999/real-time-hand-gesture-recognition"
+      },
+      {
+        "title": "Spam text classification",
+        "category": "ML application",
+        "image": "netflix.png",
+        "url": "https://github.com/UditSharma9999/Spam-Text-Message-Classification"
+      }, 
+      {
+        "title":"Movie Recommender System",
+        "category":"ML application",
+        "image":"podify.jpg",
+        "url":"https://github.com/UditSharma9999/Movie-Recommender-system"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "“Winners never quit, and quitters never win.” ",
+        "user": "Vince Lombardi"
+      }
+    ]
+  }
+}
+

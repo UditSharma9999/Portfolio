@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "title": "Podify music app (React JS, Redux Vite, Tailwind CSS)",
+            "category": "web application",
+            "image": "podify.png",
+            "url": "https://github.com/kumaratul60/podify"
+        },
+        {
+            "title": "my-web (HTML,CSS)",
+            "category": "portfolio",
+            "image": "new-pp.png",
+            "url": "https://atul-myportfolio.netlify.app"
+        },
+        {
+            "title": "ai-summarizer (Raect)",
+            "category": "open ai tool",
+            "image": "open1.png",
+            "url": "https://github.com/kumaratul60/ai-summarizer"
+        },
+        {
+            "title": "cars-showcase web (NextJS,TypeScript)",
+            "category": "catalog cars",
+            "image": "image.png",
+            "url": "https://github.com/kumaratul60/cars-showcase"
+        },
+        {
+            "title": "E-commerce site (React JS, Next Js, Redux, NextAuth, Tailwind css)",
+            "category": "E-commerce",
+            "image": "amzn.png",
+            "url": "https://github.com/kumaratul60/mezon-ecommerce"
+        },
+        {
+            "title": "LinkedIn Clone (React JS, Redux, Firebase-auth,db)",
+            "category": "Social-media",
+            "image": "linkedin.png",
+            "url": "https://github.com/kumaratul60/LinkedIn-clone"
+        },
+        {
+            "title": "Covid-19 Tracker (React JS)",
+            "category": "Live API based SPA",
+            "image": "covid-19 tracker.png",
+            "url": "https://github.com/kumaratul60/covid-19-tracker"
+        },
+        {
+            "title": "Mail-me (React JS, Redux Firebase)",
+            "category": "e-mail",
+            "image": "mail.png",
+            "url": "https://github.com/kumaratul60/mail-me-clone"
+        },
+        {
+            "title": " Slack-on (React JS, Next Js, Styled Components, Firebase-db)",
+            "category": "Room-Chat messenger",
+            "image": "slack1.png",
+            "url": "https://github.com/kumaratul60/slockon-webapp"
+        }
+    ]
+}
